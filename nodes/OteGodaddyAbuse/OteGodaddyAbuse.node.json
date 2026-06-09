@@ -1,0 +1,20 @@
+{
+  "node": "N8nDevOteGodaddyAbuse",
+  "nodeVersion": "1.0",
+  "codexVersion": "1.0",
+  "categories": [
+    "Development"
+  ],
+  "resources": {
+    "primaryDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-ote-godaddy-abuse"
+      }
+    ],
+    "credentialDocumentation": [
+      {
+        "url": "https://github.com/n8n-code/n8n-nodes-ote-godaddy-abuse?tab=readme-ov-file#credentials"
+      }
+    ]
+  }
+}
