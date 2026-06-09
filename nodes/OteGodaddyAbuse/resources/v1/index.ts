@@ -9,7 +9,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					]
 				}
 			},
@@ -64,7 +64,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -127,7 +127,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -152,7 +152,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -177,7 +177,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -202,7 +202,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -227,7 +227,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -252,7 +252,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -277,7 +277,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -302,7 +302,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Tickets"
@@ -321,7 +321,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Create Ticket"
@@ -346,7 +346,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Create Ticket"
@@ -355,7 +355,7 @@ export const v1Description: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Info Url",
+			"displayName": "Info URL",
 			"name": "infoUrl",
 			"type": "string",
 			"default": "",
@@ -371,7 +371,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Create Ticket"
@@ -396,7 +396,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Create Ticket"
@@ -421,7 +421,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Create Ticket"
@@ -446,7 +446,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Create Ticket"
@@ -471,7 +471,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Create Ticket"
@@ -534,7 +534,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Create Ticket"
@@ -553,7 +553,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Ticket Info"
@@ -562,7 +562,7 @@ export const v1Description: INodeProperties[] = [
 			}
 		},
 		{
-			"displayName": "Ticket Id",
+			"displayName": "Ticket ID",
 			"name": "ticketId",
 			"required": true,
 			"description": "A unique abuse ticket identifier",
@@ -571,7 +571,7 @@ export const v1Description: INodeProperties[] = [
 			"displayOptions": {
 				"show": {
 					"resource": [
-						"V 1"
+						"v1"
 					],
 					"operation": [
 						"Get Ticket Info"

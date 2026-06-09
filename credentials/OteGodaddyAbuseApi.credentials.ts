@@ -8,7 +8,7 @@ import type {
 export class OteGodaddyAbuseApi implements ICredentialType {
 	name = 'N8nDevOteGodaddyAbuseApi';
 
-	displayName = 'ote-godaddy-abuse API';
+	displayName = 'Ote Godaddy Abuse API';
 
 	icon: Icon = { light: 'file:../nodes/OteGodaddyAbuse/ote-godaddy-abuse.svg', dark: 'file:../nodes/OteGodaddyAbuse/ote-godaddy-abuse.dark.svg' };
 
@@ -22,7 +22,7 @@ export class OteGodaddyAbuseApi implements ICredentialType {
 			default: '//api.ote-godaddy.com',
 			required: true,
 			placeholder: '//api.ote-godaddy.com',
-			description: 'The base URL of your ote-godaddy-abuse API server',
+			description: 'The base URL of your Ote Godaddy Abuse API server',
 		},
 		{
 			displayName: 'API Key',

@@ -13,7 +13,7 @@ Every time you connect n8n to ote-godaddy-abuse, you waste hours mapping endpoin
 
 **What if connecting n8n to ote-godaddy-abuse took 5 minutes, not half a day?**
 
-This node gives you **1+ resources** out of the box: **V 1**: with full CRUD operations, typed parameters, and zero manual configuration.
+This node gives you **1+ resources** out of the box: **v1**: with full CRUD operations, typed parameters, and zero manual configuration.
 
 ---
 
@@ -53,9 +53,14 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| V 1 | Get list all abuse tickets ids that match user provided filters, Post create a new abuse ticket, Get return the abuse ticket data for a given ticket id |
+<details>
+<summary><b>v1</b> (3 operations)</summary>
+
+- Get List all abuse tickets ids that match user provided filters
+- Post Create a new abuse ticket
+- Get Return the abuse ticket data for a given ticket ID
+
+</details>
 
 ---
 

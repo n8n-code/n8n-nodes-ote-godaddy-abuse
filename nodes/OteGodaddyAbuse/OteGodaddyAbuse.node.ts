@@ -1,16 +1,16 @@
 import { NodeConnectionTypes, type INodeType, type INodeTypeDescription } from 'n8n-workflow';
-import { v1Description } from './resources/v-1';
+import { v1Description } from './resources/v1';
 
 export class OteGodaddyAbuse implements INodeType {
 	description: INodeTypeDescription = {
-		displayName: 'ote-godaddy-abuse',
+		displayName: 'Ote Godaddy Abuse',
 		name: 'N8nDevOteGodaddyAbuse',
 		icon: { light: 'file:./ote-godaddy-abuse.svg', dark: 'file:./ote-godaddy-abuse.dark.svg' },
 		group: ['input'],
 		version: 1,
 		subtitle: '={{\$parameter["operation"] + ": " + \$parameter["resource"]}}',
 		description: 'GoDaddy Abuse API Terms of Use:GoDaddy’s Abuse API is provided to simplify and standardize the abuse reporting experience. To help us streamline the review of abuse reports, you..',
-		defaults: { name: 'ote-godaddy-abuse' },
+		defaults: { name: 'Ote Godaddy Abuse' },
 		usableAsTool: true,
 		inputs: [NodeConnectionTypes.Main],
 		outputs: [NodeConnectionTypes.Main],
@@ -35,8 +35,8 @@ export class OteGodaddyAbuse implements INodeType {
 			"noDataExpression": true,
 			"options": [
 				{
-					"name": "V 1",
-					"value": "V 1",
+					"name": "v1",
+					"value": "v1",
 					"description": ""
 				}
 			],
